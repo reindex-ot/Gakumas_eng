@@ -19,3 +19,7 @@ The author's English skills are poor, so there may be some rough translations.
 この翻訳は｢バンダイナムコゲームス｣｢QualiArts｣｢ASOBINOTES｣とは一切関係はありません。
 
 完全非公式という点はご了承ください。
+
+## リンク: Link
+[学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
+[学園アイドルマスターIME辞書ファイル (Japanese IME Dictionary File)](https://github.com/reindex-ot/Gakumas_dic)
