@@ -1,4 +1,8 @@
 # プロデュース: Produce
+定期公演｢初｣ - それは、初星学園アイドル科の成績上位者のみ立つことができるステージ
+自分を磨き、今、彼女たちは輝き始める: Regular performance "Hajime" - a stage where only the top performers of Hatuboshi Gakuen's idol department can stand. 
+They hone themselves and now they start to shine.
+
 レギュラー: Regular
 
 プロ: Pro
