@@ -1,4 +1,4 @@
-# Settings
+# 設定: Settings
 ## 基本設定: Basic Settings
 フレームレート: Framerate
 
