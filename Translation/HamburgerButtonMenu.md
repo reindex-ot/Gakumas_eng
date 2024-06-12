@@ -40,3 +40,21 @@ P図鑑: Producer guide
 その他: Misc.
 
 タイトル: Title
+
+## その他: Misc.
+
+利用規約: Terms of Service
+
+プライバシーポリシー: Privacy Policy
+
+コピーライト: Copyright
+
+年齢別購入限度額: Purchase limits by age
+
+アプリ専用通貨残高確認: Check app-specific currency balance
+
+資金決済取引法に基づく表示: Disclosure based on the Payment Services Act
+
+アカウント削除: Delete account
+
+プライバシーオプション: Privacy Option
