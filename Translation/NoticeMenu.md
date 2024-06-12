@@ -1,4 +1,4 @@
-#Notice Menu
+# Notice Menu
 お知らせ: Notice
 
 インフォメーション: Information
