@@ -22,4 +22,5 @@ The author's English skills are poor, so there may be some rough translations.
 
 ## リンク: Link
 [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
+
 [学園アイドルマスターIME辞書ファイル (Japanese IME Dictionary File)](https://github.com/reindex-ot/Gakumas_dic)
