@@ -1,11 +1,11 @@
 # Gakumas English Translate (Duty)
 
-## English (Google)
+### English (Google)
 This is a repository of Gakumas translated into English.
 
 The author's English skills are poor, so there may be some rough translations.
 
-## Japanese
+### Japanese
 学マスを英語に翻訳したテキストをまとめたリポジトリです。
 
 作者は英語の能力は低いので意訳があるかもしれません。
